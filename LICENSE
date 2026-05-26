@@ -1,5 +1,9 @@
-MIT License
+================================================================================
+UNIVERSAL TTS PRO - LICENSE & CREDITS
+================================================================================
 
+1. PROJECT LICENSE (MIT)
+--------------------------------------------------------------------------------
 Copyright (c) 2026 szabiz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +23,111 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+2. THIRD-PARTY LICENSES & CREDITS
+--------------------------------------------------------------------------------
+This project relies on the following open-source components, libraries,
+binaries, and AI voice models:
+
+- Sherpa-ONNX: Apache License 2.0
+  Source: https://github.com/k2-fsa/sherpa-onnx
+
+- eSpeak-ng (Data/Phonetic rules): GNU GPL v3.0
+  Source: https://github.com/espeak-ng/espeak-ng
+
+- Piper Voice Models (rhasspy/piper-voices):
+  * LibriTTS-R (en_US): CC BY 4.0
+  * Berta (hu_HU): CC0 (Public Domain)
+  * Anna (hu_HU): CC0 (Public Domain)
+  * Imre (hu_HU): CC0 (Public Domain)
+  * Mihai (ro_RO): CC0 (Public Domain)
+  Source: https://huggingface.co/rhasspy/piper-voices
+
+- Supertonic 3:
+  * Source Code: MIT License
+  * Model Weights: OpenRAIL-M License
+  Source: https://github.com/supertone-inc/supertonic
+
+- NumPy: BSD 3-Clause License
+  Source: https://numpy.org/
+
+- Opus Encoder (opusenc): BSD 3-Clause License
+  Source: https://gitlab.xiph.org/xiph/opus-tools
+
+- SoundDevice / PortAudio: MIT License
+  Source: https://python-sounddevice.readthedocs.io/
+
+- Python / Tkinter: PSF License
+  Source: https://www.python.org/
+
+
+3. IMPORTANT NOTICE ABOUT AI MODELS
+--------------------------------------------------------------------------------
+Some AI model weights included or supported by this project may be distributed
+under licenses that include additional usage restrictions.
+
+In particular, Supertonic model weights are distributed under the OpenRAIL-M
+license, which allows commercial use but includes behavioral restrictions
+(prohibiting harmful, deceptive, abusive, or illegal usage).
+
+Users and redistributors are responsible for complying with all applicable
+third-party licenses and usage requirements.
+
+
+4. BINARY REDISTRIBUTION NOTICE
+--------------------------------------------------------------------------------
+This distribution may include unmodified third-party binaries and model files.
+
+All trademarks, copyrights, and other rights belong to their respective
+authors and owners.
+
+Third-party components are redistributed under their respective licenses.
+
+
+5. LICENSE DEFINITIONS (Quick Guide)
+--------------------------------------------------------------------------------
+- MIT:
+  Extremely permissive. Allows commercial use, modification, distribution,
+  and private use.
+
+- Apache 2.0:
+  Permissive and commercial-friendly. Requires preservation of copyright and
+  license notices and includes patent protection.
+
+- BSD 3-Clause:
+  Permissive license allowing redistribution and commercial use, provided
+  copyright notices and disclaimers are retained.
+
+- CC BY 4.0:
+  Allows free use and redistribution with proper attribution to the original
+  creator.
+
+- CC0:
+  Public Domain dedication. Free to use without restrictions.
+
+- GNU GPL v3.0:
+  A "copyleft" license. It ensures that the software remains free and open-source.
+  Any distribution of the software must include the source code or make it 
+  freely available.
+
+- OpenRAIL-M:
+  Allows commercial and research use but includes behavioral restrictions
+  intended to prevent harmful or abusive usage.
+
+- PSF:
+  Python Software Foundation License. Compatible with commercial use and
+  redistribution.
+
+
+6. RECOMMENDED THIRD-PARTY LICENSE FILES
+--------------------------------------------------------------------------------
+For maximum compliance and transparency, redistributions of this software
+should also include copies of the following licenses when applicable:
+
+- MIT License
+- Apache License 2.0
+- BSD 3-Clause License
+- OpenRAIL-M License
+- CC BY 4.0 License
+- PSF License
