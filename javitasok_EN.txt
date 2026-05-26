@@ -1,0 +1,176 @@
+# Dictionary format -> what:to what
+e.g.:for example
+i.e.:that is
+etc.:and so on
+vs.:versus
+st.:saint
+dr.:doctor
+mr.:mister
+mrs.:misses
+ms.:miss
+approx.:approximately
+incl.:including
+# Bible - Old Testament
+Gen.:Genesis
+Ex.:Exodus
+Exod.:Genesis
+Lev.:Leviticus
+Num.:Numbers
+Deut.:Deuteronomy
+Josh.:Joshua
+Judg.:Judges
+Ruth:Ruth
+1 Sam.:First Samuel
+2 Sam.:Second Samuel
+1 Kings:First Kings
+2 Kings:Second Kings
+1 Chron.:First Chronicles
+2 Chron.:Second Chronicles
+Ezra:Ezra
+Neh.:Nehemiah
+Esth.:Esther
+Job:Job
+Ps.:Psalms
+Prov.:Proverbs
+Eccl.:Ecclesiastes
+Song:Song of Solomon
+Isa.:Isaiah
+Jer.:Jeremiah
+Lam.:Lamentations
+Ezek.:Ezekiel
+Dan.:Daniel
+Hos.:Hosea
+Joel:Joel
+Amos:Amos
+Obad.:Obadiah
+Jonah:Jonah
+Mic.:Micah
+Nah.:Nahum
+Hab.:Habakkuk
+Zeph.:Zephaniah
+Hag.:Haggai
+Zech.:Zechariah
+Mal.:Malachi
+# Bible - New Testament
+Matt.:Matthew
+Mark:Mark
+Luke:Luke
+John:John
+Acts:Acts
+Rom.:Romans
+1 Cor.:First Corinthians
+2 Cor.:Second Corinthians
+Gal.:Galatians
+Eph.:Ephesians
+Phil.:Philippians
+Col.:Colossians
+1 Thess.:First Thessalonians
+2 Thess.:Second Thessalonians
+1 Tim.:First Timothy
+2 Tim.:Second Timothy
+Titus:Titus
+Philem.:Philemon
+Heb.:Hebrews
+James:James
+1 Pet.:First Peter
+2 Pet.:Second Peter
+1 John:First John
+2 John:Second John
+3 John:Third John
+Jude:Jude
+Rev.:Revelation
+# Shorter versions
+Gn:Genesis
+Ex:Exodus
+Lv:Leviticus
+Nm:Numbers
+Dt:Deuteronomy
+1Sm:First Samuel
+2Sm:Second Samuel
+1Kgs:First Kings
+2Kgs:Second Kgs
+1Chr:First Chronicles
+2Chr:Second Chronicles
+Ezr:Ezra
+Ne:Nehemiah
+Es:Esther
+Jb:Job
+Pr:Proverbs
+Ec:Ecclesiastes
+Is:Isaiah
+Jr:Jeremiah
+Lm:Lamentations
+Ez:Ezekiel
+Dn:Daniel
+Ho:Hosea
+Jl:Joel
+Am:Amos
+Ob:Obadiah
+Jn:Jonah
+Mi:Micah
+Na:Nahum
+Hb:Habakkuk
+Zp:Zephaniah
+Hg:Haggai
+Zc:Zechariah
+Ml:Malachi
+Mt:Matthew
+Mk:Mark
+Lk:Luke
+Jn:John
+Ac:Acts
+Rm:Romans
+1Co:First Corinthians
+2Co:Second Corinthians
+Ga:Galatians
+Ep:Ephesians
+Ph:Philippians
+Cl:Colossians
+1Th:First Thessalonians
+2Th:Second Thessalonians
+1Tm:First Timothy
+2Tm:Second Timothy
+Tt:Titus
+Pm:Philemon
+Hb:Hebrews
+Jm:James
+1Pt:First Peter
+2Pt:Second Peter
+1Jn:First John
+2Jn:Second John
+3Jn:Third John
+Jd:Jude
+Rv:Revelation
+I.:first
+II.:second
+III.:third
+IV.:fourth
+V.:fifth
+VI.:sixth
+VII.:seventh
+VIII.:eighth
+IX.:ninth
+X.:tenth
+XI.:eleventh
+XII.:twelfth
+XIII.:thirteenth
+XIV.:fourteenth
+XV.:fifteenth
+XVI.:sixteenth
+XVII.:seventeenth
+XVIII.:eighteenth
+XIX.:nineteenth
+XX.:twentieth
+XXI.:twenty-first
+# Cleaning characters
+*:
+#:
+...: 
+[: 
+]: 
+(: 
+): 
+„: 
+": 
+”: 
+„...: 

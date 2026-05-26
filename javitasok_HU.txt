@@ -1,0 +1,128 @@
+# mit:amire
+1Móz:1 Mózes
+2Móz:2 Mózes
+3Móz:3 Mózes
+4Móz:4 Mózes
+5Móz:5 Mózes
+Józs:Józsué
+Bír:Bírák
+Ruth:Ruth
+1Sám:1 Sámuel
+2Sám:2 Sámuel
+1Kir:1 Királyok
+2Kir:2 Királyok
+1Krón:1 Krónika
+2Krón:2 Krónika
+Ezsdr:Ezsdrás
+Ezsd:Ezsdrás
+Ezs:Ezsdrás
+Neh:Nehémiás
+Eszt:Eszter
+Jób:Jób
+Zsolt:Zsoltárok
+Péld:Példabeszédek
+Préd:Prédikátor
+Én:Énekek Éneke
+Ézs:Ézsaiás
+Jer:Jeremiás
+JSir:Jeremiás siralmai
+Ez:Ezékiel
+Dán:Dániel
+Hós:Hóseás
+Jóel:Jóel
+Ám:Ámosz
+Abd:Abdiás
+Jón:Jónás
+Mik:Mikeás
+Náh:Náhum
+Hab:Habakuk
+Sof:Sofóniás
+Zof:Zofóniás
+Agg:Aggeus
+Zak:Zakariás
+Mal:Malakiás
+Mát:Máté
+Mt:Máté
+Már:Márk
+Mk:Márk
+Luk:Lukács
+Lk:Lukács
+Ján:János
+Jn:János
+ApCsel:Apostolok Cselekedetei
+Csel:Cselekedetek
+Róm:Róma
+1Kor:1 Korinthus
+2Kor:2 Korinthus
+Gal:Galata
+Ef:Efézus
+Fil:Filippi
+Kol:Kolossé
+1Thess:1 Thesszalonika
+1Thessz:1 Thesszalonika
+2Thess:2 Thesszalonika
+2Thessz:2 Thesszalonika
+1Tim:1 Timóteus
+2Tim:2 Timóteus
+Tit:Titusz
+Zsid:Zsidókhoz írt levél
+Jak:Jakab
+1Pét:1 Péter
+1Pt:1 Péter
+2Pét:2 Péter
+2Pt:2 Péter
+1Ján:1 János
+1Jn:1 János
+2Ján:2 János
+2Jn:2 János
+3Ján:3 János
+3Jn:3 János
+Júd:Júdás
+Jel:Jelenések
+pl.:például
+stb.:és a többi
+ill.:illetve
+u.:utána
+v.:vagy
+Kr.e.:Krisztus előtt
+Kr.u.:Krisztus után
+i.e.:időszámításunk előtt
+i.sz.:időszámításunk szerint
+Úsz.:Újszövetség
+Ósz.:Ószövetség
+fej.:fejezet
+vv.:versek
+sz.:számu
+I.:első
+II.:második
+III.:harmadik
+IV.:negyedik
+V.:ötödik
+VI.:hatodik
+VII.:hetedik
+VIII.:nyolcadik
+IX.:kilencedik
+X.:tizedik
+XI.:tizenegyedik
+XII.:tizenkettedik
+XIII.:tizenharmadik
+XIV.:tizennegyedik
+XV.:tizenötödik
+XVI.:tizenhatodik
+XVII.:tizenhetedik
+XVIII.:tizennyolcadik
+XIX.:tizenkilencedik
+XX.:huszadik
+XXI.:huszonegyedik
+*: 
+#: 
+...: 
+[: 
+]: 
+(: 
+): 
+„: 
+": 
+”: 
+„...: 
+„ ...: 

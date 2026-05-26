@@ -1,0 +1,162 @@
+# ============================================================
+#  DICȚIONAR DE CORECȚII – Română (RO)
+#  Formát: prescurtare:forma_completă
+#  Liniile care încep cu # sunt comentarii și sunt ignorate.
+# ============================================================
+
+# ── Abrevieri generale ───────────────────────────────────────
+ex.:exemplu
+nr.:numărul
+pag.:pagina
+p.:pagina
+vol.:volumul
+cap.:capitolul
+v.:versetul
+vv.:versetele
+cf.:conform
+vs.:versus
+dl.:domnul
+dna.:doamna
+dr.:doctor
+prof.:profesor
+ing.:inginer
+etc.:și altele
+ș.a.:și altele
+ș.a.m.d.:și așa mai departe
+apr.:aproximativ
+max.:maxim
+min.:minim
+resp.:respectiv
+sec.:secolul
+d.Hr.:după Hristos
+î.Hr.:înainte de Hristos
+St.:Sfântul
+Sf.:Sfântul
+N.T.:Noul Testament
+V.T.:Vechiul Testament
+Gen:Geneza
+Fac:Facerea
+Ex:Exodul
+Ieș:Ieșirea
+Lev:Leviticul
+Num:Numeri
+Nm:Numeri
+Dt:Deuteronomul
+Deut:Deuteronomul
+Ios:Iosua
+Jud:Judecători
+Rut:Rut
+1Sam:1 Samuel
+2Sam:2 Samuel
+1S:1 Samuel
+2S:2 Samuel
+1Împ:1 Împărați
+2Împ:2 Împărați
+1Reg:1 Regi
+2Reg:2 Regi
+3Reg:3 Regi
+4Reg:4 Regi
+1Cron:1 Cronici
+2Cron:2 Cronici
+1Cr:1 Cronici
+2Cr:2 Cronici
+Ezr:Ezra
+Neem:Neemia
+Neh:Neemia
+Est:Estera
+Iov:Iov
+Ps:Psalmi
+Prov:Proverbe
+Pv:Proverbe
+Ecl:Eclesiastul
+Cânt:Cântarea Cântărilor
+Cnt:Cântarea Cântărilor
+Is:Isaia
+Isa:Isaia
+Ier:Ieremia
+Plâng:Plângerile lui Ieremia
+Plg:Plângerile lui Ieremia
+Iez:Iezechiel
+Ez:Iezechiel
+Dan:Daniel
+Os:Osea
+Ioel:Ioel
+Am:Amos
+Abd:Obadia
+Ob:Obadia
+Iona:Iona
+Mica:Mica
+Mi:Mica
+Naum:Naum
+Na:Naum
+Hab:Habacuc
+Sof:Sofonie
+Ag:Agheu
+Agg:Agheu
+Zah:Zaharia
+Mal:Maleahi
+Mt:Matei
+Mat:Matei
+Mc:Marcu
+Lc:Luca
+Luc:Luca
+In:Ioan
+Ioan:Ioan
+Fap:Faptele Apostolilor
+FA:Faptele Apostolilor
+Rom:Romani
+1Cor:1 Corinteni
+2Cor:2 Corinteni
+Gal:Galateni
+Ef:Efeseni
+Fil:Filipeni
+Col:Coloseni
+1Tes:1 Tesaloniceni
+2Tes:2 Tesaloniceni
+1Tim:1 Timotei
+2Tim:2 Timotei
+Tit:Tit
+Flm:Filimon
+Evr:Evrei
+Iac:Iacov
+1Pet:1 Petru
+2Pet:2 Petru
+1In:1 Ioan
+2In:2 Ioan
+3In:3 Ioan
+Iuda:Iuda
+Apoc:Apocalipsa
+Ap:Apocalipsa
+I.:primul
+II.:al doilea
+III.:al treilea
+IV.:al patrulea
+V.:al cincilea
+VI.:al șaselea
+VII.:al șaptelea
+VIII.:al optulea
+IX.:al nouălea
+X.:al zecelea
+XI.:al unsprezecelea
+XII.:al doisprezecelea
+XIII.:al treisprezecelea
+XIV.:al paisprezecelea
+XV.:al cincisprezecelea
+XVI.:al șaisprezecelea
+XVII.:al șaptesprezecelea
+XVIII.:al optsprezecelea
+XIX.:al nouăsprezecelea
+XX.:al douăzecelea
+XXI.:al douăzeci și unulea
+*: 
+#: 
+...: 
+[: 
+]: 
+(: 
+): 
+„: 
+": 
+”: 
+„...: 
+
